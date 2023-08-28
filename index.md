@@ -6,8 +6,8 @@ This is my home page! Yay!
 
 ```
 
-- The simplicity of the class
-- The beginner-friendly approach to Github
-- The relaxed pace of the homework
+. The simplicity of the class
+. The beginner-friendly approach to Github
+. The relaxed pace of the homework
 
 ```
