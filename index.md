@@ -10,7 +10,7 @@ This is my home page! Yay!
 - The beginner-friendly approach to Github
 - The relaxed pace of the homework
 
-``'
+```
 
 ### Jekyll Themes
 
