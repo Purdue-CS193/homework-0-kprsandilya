@@ -2,10 +2,9 @@
 
 This is my home page! Yay!
 
-These are some of my favorite things about CS 193
-### Markdown
+### These are some of my favorite things about CS 193
 
-```markdown
+```
 
 - The simplicity of the class
 - The beginner-friendly approach to Github
